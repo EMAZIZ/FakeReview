@@ -1,4 +1,4 @@
 nltk
 textblob
-pickle
+scikit-learn
 re
